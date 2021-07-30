@@ -1,6 +1,0 @@
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/CMakeFiles/InitOpenGL.dir
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/CMakeFiles/glad.dir
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/lib/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/eyadh/source/Eyad/OpenGLTemplate/build/lib/glfw/src/CMakeFiles/glfw.dir
