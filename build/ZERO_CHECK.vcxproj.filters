@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\eyadh\source\Eyad\OpenGLTemplate\build\CMakeFiles\6bd2356c341135defa3e5c8db8e3d65f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C67CEB47-9067-3E62-B42A-FBED2F849B65}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
