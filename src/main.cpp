@@ -33,7 +33,7 @@ int main()
     glfwSetFramebufferSizeCallback(glfw_window, framebuffer_size_callback);
 
     // load openGL function pointers
-    if (!gladLoadGLLoader( (GLADloadproc)glfwGetProcAddress ))
+    if (gladLoadGLLoader( (GLADloadproc)glfwGetProcAddress ) == false)
     {
         printf("[GLAD]: Initialization failed\n");
         return -1;
