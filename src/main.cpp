@@ -40,7 +40,7 @@ int main()
     }
 
     // render loop
-    while (!glfwWindowShouldClose(glfw_window))
+    while (glfwWindowShouldClose(glfw_window) == false)
     {
         processInput(glfw_window);
 
